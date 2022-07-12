@@ -2,7 +2,7 @@
 #include <memory>
 #include <stack>
 // C++11 lest unit testing framework
-#include "lest.hpp"
+#include "../lest.hpp"
 
 using namespace std;
 
